@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b62289d.css",
+    "main.js": "/static/js/main.4fde81ed.js",
+    "static/js/787.df4ba4b3.chunk.js": "/static/js/787.df4ba4b3.chunk.js",
+    "static/media/carousel-parrilla.png": "/static/media/carousel-parrilla.e2882c3c797b91fc60fe.png",
+    "static/media/carousel-pizza.png": "/static/media/carousel-pizzaa.f81188bdd9ed13d7a5de.png",
+    "static/media/carousel-sushi.png": "/static/media/carousel-sushi.e858de30d2c2c634c6c5.png",
+    "static/media/carousel-postre2.jpg": "/static/media/carousel-postre2.a3b224ef6d5e5e0a9142.jpg",
+    "static/media/carousel-carne.png": "/static/media/carousel-carne.ea50687fc33f5d608130.png",
+    "static/media/carousel-posrte1.jpg": "/static/media/carousel-posrte1.934c434d83cd8227981f.jpg",
+    "static/media/carousel-postre3.jpg": "/static/media/carousel-postre3.f60bffb9a653ba364ae5.jpg",
+    "static/media/BADLOGO.png": "/static/media/BADLOGO.e96d42a92b9947f7511c.png",
+    "index.html": "/index.html",
+    "main.2b62289d.css.map": "/static/css/main.2b62289d.css.map",
+    "main.4fde81ed.js.map": "/static/js/main.4fde81ed.js.map",
+    "787.df4ba4b3.chunk.js.map": "/static/js/787.df4ba4b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b62289d.css",
+    "static/js/main.4fde81ed.js"
+  ]
+}
